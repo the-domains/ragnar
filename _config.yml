@@ -2,6 +2,7 @@ name: ragnar
 favicon: null
 layout_spectrum: 0.50425
 typography_spectrum: 0.45564911514520645
+title: ragnar
 cta:
   domain: null
   bucket: null
